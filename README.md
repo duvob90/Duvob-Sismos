@@ -7,7 +7,7 @@ Atributos expuestos:
 - `depth_km`
 - `time_utc`
 - `event_id`
-- `ref_geografica`  ← referencia geográfica (p. ej. "52 km al SO de ...")
+- `ref_geografica`
 - `url`
 
 ## Instalación (HACS)
@@ -35,6 +35,10 @@ entities:
 default_zoom: 6
 dark_mode: true
 ```
+
+## Créditos
+
+Autor: @duvob90
 
 ## Notas
 

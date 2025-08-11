@@ -1,10 +1,10 @@
 {
   "domain": "duvob_sismos",
   "name": "Duvob Sismos",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "documentation": "https://shakemaps.csn.uchile.cl/",
-  "issue_tracker": "https://shakemaps.csn.uchile.cl/",
-  "codeowners": ["@tu-usuario"],
+  "issue_tracker": "https://github.com/duvob90/Alerta-Sismos/issues",
+  "codeowners": ["@duvob90"],
   "iot_class": "cloud_polling",
   "integration_type": "service",
   "config_flow": true,
